@@ -10,6 +10,9 @@ Features Includes: <br/>
 •	Nearby shops <br/>
 •	Tutorials <br/>
 
+### Note:
+Above is the APK file of the developed app you can give it a try 
+
 ## Screenshots
 <table style="text-align:center">
 
